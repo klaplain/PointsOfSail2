@@ -14,7 +14,7 @@
 #include "ConnectionManager.h"
 #include "SettingsManager.h"
 
-#define PORTHOROLO_8M
+#define PORTHOROLO_8M  // FT Device Designator
 #include ".\include\ftconfig.h"
 
 //  Global Variables
